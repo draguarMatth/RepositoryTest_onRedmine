@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Cours\\7eme semestre\\625_1_Software\\Software Industrialisation\\Projets\\GitRepo_NEE\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {}
+    "D:\\Cours\\7eme semestre\\625_1_Software\\Software Industrialisation\\Projets\\GitRepo_NEE\\Working_Code_Projet_Test_Redmines\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {}
   },
   "projects": {
-    "D:\\Cours\\7eme semestre\\625_1_Software\\Software Industrialisation\\Projets\\GitRepo_NEE\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {
+    "D:\\Cours\\7eme semestre\\625_1_Software\\Software Industrialisation\\Projets\\GitRepo_NEE\\Working_Code_Projet_Test_Redmines\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Cours\\7eme semestre\\625_1_Software\\Software Industrialisation\\Projets\\GitRepo_NEE\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+        "projectUniqueName": "D:\\Cours\\7eme semestre\\625_1_Software\\Software Industrialisation\\Projets\\GitRepo_NEE\\Working_Code_Projet_Test_Redmines\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "D:\\Cours\\7eme semestre\\625_1_Software\\Software Industrialisation\\Projets\\GitRepo_NEE\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+        "projectPath": "D:\\Cours\\7eme semestre\\625_1_Software\\Software Industrialisation\\Projets\\GitRepo_NEE\\Working_Code_Projet_Test_Redmines\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
         "packagesPath": "C:\\Users\\Draguar\\.nuget\\packages\\",
-        "outputPath": "D:\\Cours\\7eme semestre\\625_1_Software\\Software Industrialisation\\Projets\\GitRepo_NEE\\WebApplication1\\WebApplication1\\obj\\",
+        "outputPath": "D:\\Cours\\7eme semestre\\625_1_Software\\Software Industrialisation\\Projets\\GitRepo_NEE\\Working_Code_Projet_Test_Redmines\\WebApplication1\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Draguar\\AppData\\Roaming\\NuGet\\NuGet.Config",
